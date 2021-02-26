@@ -19,3 +19,4 @@ Criar uma aplicação simples em PHP, que irá consumir a seguinte API : https:/
 
 **Será analisado a logica, organização e a qualidade do código**
 
+Prazo: 2 dia após o envio do teste.
